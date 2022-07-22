@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Custom
+package-lock.json
+yarn.lock
+.yarn
+.pnp.*
+pnpm-lock.*
